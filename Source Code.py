@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 
 # Read the data from the CSV file
 # Updated CSV file
-data = pd.read_csv('/content/Screentime-App-Details(updated).csv')
+data = pd.read_csv('Screentime-App-Details.csv')
 print("--------------------------------------- DATA SHEET ----------------------------------------------\n")
 print(data)
 
